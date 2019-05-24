@@ -114,3 +114,4 @@ dmypy.json
 .pyre/
 
 *.npy
+data/processed/autotest/no/1 no_processed.jpeg
