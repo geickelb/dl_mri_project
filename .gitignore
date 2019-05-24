@@ -115,3 +115,7 @@ dmypy.json
 
 *.npy
 data/processed/autotest/no/1 no_processed.jpeg
+data/processed/autotest/yes/Y99_processed.JPG
+*.jpg
+*.png
+*.jpeg
